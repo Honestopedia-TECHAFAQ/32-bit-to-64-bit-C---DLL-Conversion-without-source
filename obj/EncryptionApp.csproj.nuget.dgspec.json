@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\32-bit to 64-bit C++ DLL Conversion without source\\EncryptionApp\\EncryptionApp.csproj": {}
+    "D:\\32-bit to 64-bit C++ DLL Conversion without source\\EncryptionApp\\32-bit-to-64-bit-C---DLL-Conversion-without-source\\EncryptionApp.csproj": {}
   },
   "projects": {
-    "D:\\32-bit to 64-bit C++ DLL Conversion without source\\EncryptionApp\\EncryptionApp.csproj": {
+    "D:\\32-bit to 64-bit C++ DLL Conversion without source\\EncryptionApp\\32-bit-to-64-bit-C---DLL-Conversion-without-source\\EncryptionApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\32-bit to 64-bit C++ DLL Conversion without source\\EncryptionApp\\EncryptionApp.csproj",
+        "projectUniqueName": "D:\\32-bit to 64-bit C++ DLL Conversion without source\\EncryptionApp\\32-bit-to-64-bit-C---DLL-Conversion-without-source\\EncryptionApp.csproj",
         "projectName": "EncryptionApp",
-        "projectPath": "D:\\32-bit to 64-bit C++ DLL Conversion without source\\EncryptionApp\\EncryptionApp.csproj",
+        "projectPath": "D:\\32-bit to 64-bit C++ DLL Conversion without source\\EncryptionApp\\32-bit-to-64-bit-C---DLL-Conversion-without-source\\EncryptionApp.csproj",
         "packagesPath": "C:\\Users\\CEO-FOUNER-HTS\\.nuget\\packages\\",
-        "outputPath": "D:\\32-bit to 64-bit C++ DLL Conversion without source\\EncryptionApp\\obj\\",
+        "outputPath": "D:\\32-bit to 64-bit C++ DLL Conversion without source\\EncryptionApp\\32-bit-to-64-bit-C---DLL-Conversion-without-source\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\CEO-FOUNER-HTS\\AppData\\Roaming\\NuGet\\NuGet.Config"

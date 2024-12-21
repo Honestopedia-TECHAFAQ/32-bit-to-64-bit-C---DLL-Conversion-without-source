@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = EncryptionApp
-build_property.ProjectDir = D:\32-bit to 64-bit C++ DLL Conversion without source\EncryptionApp\
+build_property.ProjectDir = D:\32-bit to 64-bit C++ DLL Conversion without source\EncryptionApp\32-bit-to-64-bit-C---DLL-Conversion-without-source\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
