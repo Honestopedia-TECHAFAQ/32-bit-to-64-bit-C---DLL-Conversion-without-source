@@ -1,0 +1,10 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <PlatformTarget>x64</PlatformTarget>  <!-- Set to x64 for 64-bit -->
+    <RuntimeIdentifiers>win-x64</RuntimeIdentifiers> <!-- Set to win-x64 for 64-bit Windows -->
+  </PropertyGroup>
+
+</Project>

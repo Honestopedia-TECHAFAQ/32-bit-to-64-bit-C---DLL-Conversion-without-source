@@ -1,0 +1,5 @@
+D:\32-bit to 64-bit C++ DLL Conversion without source\EncryptionApp\bin\Release\net8.0\win-x64\publish\EncryptionApp.exe
+D:\32-bit to 64-bit C++ DLL Conversion without source\EncryptionApp\bin\Release\net8.0\win-x64\publish\EncryptionApp.dll
+D:\32-bit to 64-bit C++ DLL Conversion without source\EncryptionApp\bin\Release\net8.0\win-x64\publish\EncryptionApp.deps.json
+D:\32-bit to 64-bit C++ DLL Conversion without source\EncryptionApp\bin\Release\net8.0\win-x64\publish\EncryptionApp.runtimeconfig.json
+D:\32-bit to 64-bit C++ DLL Conversion without source\EncryptionApp\bin\Release\net8.0\win-x64\publish\EncryptionApp.pdb

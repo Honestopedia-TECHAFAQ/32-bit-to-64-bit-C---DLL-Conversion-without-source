@@ -1,0 +1,14 @@
+D:\32-bit to 64-bit C++ DLL Conversion without source\EncryptionApp\obj\Debug\net6.0\EncryptionApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\32-bit to 64-bit C++ DLL Conversion without source\EncryptionApp\obj\Debug\net6.0\EncryptionApp.AssemblyInfoInputs.cache
+D:\32-bit to 64-bit C++ DLL Conversion without source\EncryptionApp\obj\Debug\net6.0\EncryptionApp.AssemblyInfo.cs
+D:\32-bit to 64-bit C++ DLL Conversion without source\EncryptionApp\obj\Debug\net6.0\EncryptionApp.csproj.CoreCompileInputs.cache
+D:\32-bit to 64-bit C++ DLL Conversion without source\EncryptionApp\bin\Debug\net6.0\EncryptionApp.deps.json
+D:\32-bit to 64-bit C++ DLL Conversion without source\EncryptionApp\bin\Debug\net6.0\EncryptionApp.dll
+D:\32-bit to 64-bit C++ DLL Conversion without source\EncryptionApp\bin\Debug\net6.0\EncryptionApp.pdb
+D:\32-bit to 64-bit C++ DLL Conversion without source\EncryptionApp\obj\Debug\net6.0\EncryptionApp.dll
+D:\32-bit to 64-bit C++ DLL Conversion without source\EncryptionApp\obj\Debug\net6.0\refint\EncryptionApp.dll
+D:\32-bit to 64-bit C++ DLL Conversion without source\EncryptionApp\obj\Debug\net6.0\EncryptionApp.pdb
+D:\32-bit to 64-bit C++ DLL Conversion without source\EncryptionApp\obj\Debug\net6.0\ref\EncryptionApp.dll
+D:\32-bit to 64-bit C++ DLL Conversion without source\EncryptionApp\bin\Debug\net6.0\EncryptionApp.exe
+D:\32-bit to 64-bit C++ DLL Conversion without source\EncryptionApp\bin\Debug\net6.0\EncryptionApp.runtimeconfig.json
+D:\32-bit to 64-bit C++ DLL Conversion without source\EncryptionApp\obj\Debug\net6.0\EncryptionApp.genruntimeconfig.cache

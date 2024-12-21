@@ -1,0 +1,14 @@
+D:\32-bit to 64-bit C++ DLL Conversion without source\EncryptionApp\bin\Release\net8.0\win-x64\EncryptionApp.exe
+D:\32-bit to 64-bit C++ DLL Conversion without source\EncryptionApp\bin\Release\net8.0\win-x64\EncryptionApp.deps.json
+D:\32-bit to 64-bit C++ DLL Conversion without source\EncryptionApp\bin\Release\net8.0\win-x64\EncryptionApp.runtimeconfig.json
+D:\32-bit to 64-bit C++ DLL Conversion without source\EncryptionApp\bin\Release\net8.0\win-x64\EncryptionApp.dll
+D:\32-bit to 64-bit C++ DLL Conversion without source\EncryptionApp\bin\Release\net8.0\win-x64\EncryptionApp.pdb
+D:\32-bit to 64-bit C++ DLL Conversion without source\EncryptionApp\obj\Release\net8.0\win-x64\EncryptionApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\32-bit to 64-bit C++ DLL Conversion without source\EncryptionApp\obj\Release\net8.0\win-x64\EncryptionApp.AssemblyInfoInputs.cache
+D:\32-bit to 64-bit C++ DLL Conversion without source\EncryptionApp\obj\Release\net8.0\win-x64\EncryptionApp.AssemblyInfo.cs
+D:\32-bit to 64-bit C++ DLL Conversion without source\EncryptionApp\obj\Release\net8.0\win-x64\EncryptionApp.csproj.CoreCompileInputs.cache
+D:\32-bit to 64-bit C++ DLL Conversion without source\EncryptionApp\obj\Release\net8.0\win-x64\EncryptionApp.dll
+D:\32-bit to 64-bit C++ DLL Conversion without source\EncryptionApp\obj\Release\net8.0\win-x64\refint\EncryptionApp.dll
+D:\32-bit to 64-bit C++ DLL Conversion without source\EncryptionApp\obj\Release\net8.0\win-x64\EncryptionApp.pdb
+D:\32-bit to 64-bit C++ DLL Conversion without source\EncryptionApp\obj\Release\net8.0\win-x64\EncryptionApp.genruntimeconfig.cache
+D:\32-bit to 64-bit C++ DLL Conversion without source\EncryptionApp\obj\Release\net8.0\win-x64\ref\EncryptionApp.dll
